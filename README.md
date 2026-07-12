@@ -34,5 +34,5 @@
 ***
 ========================================================================================================================================================================================
 #  🎮 [Site-ul cu jocul in format webgl poate fi gasit aici](https://kssfm.github.io/Aventura_monetara_a_lui_Ghita/)
-###### ❗De mentionat ca jocul, odata incarcat, fura atentia paginii, acest lucru nu poate fi prevenit desi am incercat, odata ce browser-ul a terminat de instalat necesarul pentru joc, la orice alta reincarcare de ###### pagina nu se va mai intampla acest lucru❗
+###### ❗De mentionat ca jocul, odata incarcat, fura atentia paginii, acest lucru nu poate fi prevenit desi am incercat, odata ce browser-ul a terminat de instalat necesarul pentru joc, la orice alta reincarcare de  pagina nu se va mai intampla acest lucru❗
 

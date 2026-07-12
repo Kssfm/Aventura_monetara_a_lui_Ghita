@@ -17,12 +17,12 @@
 ***
 ### 🎨 Asset-uri folosite: <br>
 
-> [Background](https://admurin.itch.io/parallax-backgrounds-plains); 
-> [Harta](https://cainos.itch.io/pixel-art-platformer-village-props);
-> Sfx: [Pasi](https://nebula-audio.itch.io/character-footsteps-rock-grass-pack-1) si [Saritura](https://brackeysgames.itch.io/brackeys-platformer-bundle);
-> Muzica de fundal este generata de Suno.ai;
-> [Filmuletul de pe site](https://www.facebook.com/CineMaraton/videos/moara-cu-noroc/550212569878188/);
-> Personajele, desenele, tot ce nu este mentionat/ prezent in link-urile de mai sus, sunt facute in totalite de noi;
+> [Background](https://admurin.itch.io/parallax-backgrounds-plains);<br>
+> [Harta](https://cainos.itch.io/pixel-art-platformer-village-props);<br>
+> Sfx: [Pasi](https://nebula-audio.itch.io/character-footsteps-rock-grass-pack-1) si [Saritura](https://brackeysgames.itch.io/brackeys-platformer-bundle);<br>
+> Muzica de fundal este generata de Suno.ai;<br>
+> [Filmuletul de pe site](https://www.facebook.com/CineMaraton/videos/moara-cu-noroc/550212569878188/);<br>
+> Personajele, desenele, tot ce nu este mentionat/ prezent in link-urile de mai sus, sunt facute in totalite de noi;<br>
 ***
 ### 📓 Tehnologii implicate:
 ***
@@ -33,5 +33,5 @@
 5. Ibispaint/ asesprite/ libresprite: realizarea desenelor si a asset-urilor
 ***
 ========================================================================================================================================================================================
-# [Site-ul cu jocul in format webgl poate fi gasit aici](https://kssfm.github.io/Aventura_monetara_a_lui_Ghita/)
+#  🎮 [Site-ul cu jocul in format webgl poate fi gasit aici](https://kssfm.github.io/Aventura_monetara_a_lui_Ghita/)
 

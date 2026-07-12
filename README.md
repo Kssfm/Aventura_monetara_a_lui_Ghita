@@ -1,4 +1,4 @@
-<p align="center"># **Aventura monetara a lui Ghita**</p>
+# **Aventura monetara a lui Ghita**
 ====================================================================
-<p align="center">## **De la mic la mare, pentru profesori si elevi**</p>
+## **De la mic la mare, pentru profesori si elevi**
 ***

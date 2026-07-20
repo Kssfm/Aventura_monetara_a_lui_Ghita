@@ -17,7 +17,7 @@
       <p><a href="#test">TEST</a></p>
       <p><a href="#about">ABOUT</a></p>
       <p><a href="#info">INFO</a></p>
-      <p><a href="#game">GAME</a></p>
+      <p><a href="#gameFrame">GAME</a></p>
     </div>
   </header>
   <section class="hero-section autoBlur">
@@ -29,7 +29,7 @@
       <div class="hero-info">
         <h1>Aventura monetara a lui Ghita</h1>
         <p>Descopera universul literar "Moara cu noroc"</p>
-        <button onclick="document.getElementById('game').scrollIntoView({behavior:'smooth'})">Hai la joc!
+        <button onclick="document.getElementById('gameFrame').scrollIntoView({behavior:'smooth'})">Hai la joc!
         </button>
       </div>
 
@@ -78,18 +78,23 @@
       <h1 class="game-title"></h1>
     </header>
 
-  </section>
-     <div id="game" class="game-section">
-      <div id="playerWrapper" class="player-wrapper">
-       <div id="loadingScreen" class="loading-screen">
-        <div class="spinner"></div>
-        <p>Loading game…</p>
-      </div>
+  <div id="playerWrapper" class="player-wrapper">
+
+
+    <div id="startScreen" class="start-screen">
+      <button id="startBtn" class="start-btn">▶ Run game</button>
+    </div>
+
+
+    <div id="loadingScreen" class="loading-screen hidden">
+      <div class="spinner"></div>
+      <p>Loading game…</p>
+   </div>
+
 
       <iframe
         id="gameFrame"
         class="game-frame"
-        src="game/index.html"
         tabindex="-1"
         allow="fullscreen; autoplay; gamepad; clipboard-write"
         allowfullscreen

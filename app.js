@@ -3,6 +3,17 @@ const gameFrame = document.getElementById('gameFrame');
 const loadingScreen = document.getElementById('loadingScreen');
 const fullscreenBtn = document.getElementById('fullscreenBtn');
 const playerWrapper = document.getElementById('playerWrapper');
+const startScreen = document.getElementById('startScreen');
+const startBtn = document.getElementById('startBtn');
+
+startBtn.addEventListener('click', () => {
+  
+  startScreen.classList.add('hidden');
+  loadingScreen.classList.remove('hidden');
+
+  //!!! instalarea jocului<3!!!
+  gameFrame.src = 'game/index.html';
+});
 
 
 gameFrame.addEventListener('load', () => {

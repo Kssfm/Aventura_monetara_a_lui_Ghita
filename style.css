@@ -8,15 +8,6 @@ body{
     background-color: #000;
     scroll-behavior: smooth;
 }
-
-body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-  background: #000; /* letterbox color */
-  overflow: hidden;
-}
  
 .site-frame {
   width: 100vw;

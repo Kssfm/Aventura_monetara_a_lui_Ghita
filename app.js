@@ -1,5 +1,5 @@
 /*game code*/
-const gameFrame = document.getElementById('gameFrame_iframe');
+const gameFrame = document.getElementById('gameFrame');
 const loadingScreen = document.getElementById('loadingScreen');
 const fullscreenBtn = document.getElementById('fullscreenBtn');
 const playerWrapper = document.getElementById('playerWrapper');

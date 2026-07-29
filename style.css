@@ -8,6 +8,26 @@ body{
     background-color: #000;
     scroll-behavior: smooth;
 }
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: #000; /* letterbox color */
+  overflow: hidden;
+}
+ 
+.site-frame {
+  width: 100vw;
+  max-width: calc(100vh * 16 / 9); 
+  aspect-ratio: 16 / 9;
+  max-height: 100vh;
+  overflow-y: auto;   
+  overflow-x: hidden;
+  position: relative;
+}
+
 .container{
     font-family: Arial, Helvetica, sans-serif;
     color:white;
